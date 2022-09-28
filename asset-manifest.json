@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ecaca88.chunk.css",
+    "main.js": "/static/js/main.7b120668.chunk.js",
+    "main.js.map": "/static/js/main.7b120668.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff2ab107.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff2ab107.js.map",
+    "static/css/2.646734d5.chunk.css": "/static/css/2.646734d5.chunk.css",
+    "static/js/2.c35661bb.chunk.js": "/static/js/2.c35661bb.chunk.js",
+    "static/js/2.c35661bb.chunk.js.map": "/static/js/2.c35661bb.chunk.js.map",
+    "static/js/3.e0360e6f.chunk.js": "/static/js/3.e0360e6f.chunk.js",
+    "static/js/3.e0360e6f.chunk.js.map": "/static/js/3.e0360e6f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.646734d5.chunk.css.map": "/static/css/2.646734d5.chunk.css.map",
+    "static/css/main.4ecaca88.chunk.css.map": "/static/css/main.4ecaca88.chunk.css.map",
+    "static/js/2.c35661bb.chunk.js.LICENSE.txt": "/static/js/2.c35661bb.chunk.js.LICENSE.txt",
+    "static/media/grey-matter.dbf9643d.jpg": "/static/media/grey-matter.dbf9643d.jpg",
+    "static/media/greyMatter.488ce535.glb": "/static/media/greyMatter.488ce535.glb",
+    "static/media/kame-house.ea3056a4.jpg": "/static/media/kame-house.ea3056a4.jpg",
+    "static/media/kameHouse.ac94f21e.glb": "/static/media/kameHouse.ac94f21e.glb",
+    "static/media/meeseek.6e331d4b.jpg": "/static/media/meeseek.6e331d4b.jpg",
+    "static/media/monster.2f935aa5.glb": "/static/media/monster.2f935aa5.glb",
+    "static/media/monster.fb9a032f.jpg": "/static/media/monster.fb9a032f.jpg",
+    "static/media/mrMeesek.9d1dc03d.glb": "/static/media/mrMeesek.9d1dc03d.glb",
+    "static/media/psyduck.3c256480.glb": "/static/media/psyduck.3c256480.glb",
+    "static/media/psyduck.4ed783e7.jpg": "/static/media/psyduck.4ed783e7.jpg",
+    "static/media/swiper.less": "/static/media/swiper.e5fcd925.less",
+    "static/media/victreebel.29f1209c.jpg": "/static/media/victreebel.29f1209c.jpg",
+    "static/media/victreebel.aa2176ed.glb": "/static/media/victreebel.aa2176ed.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff2ab107.js",
+    "static/css/2.646734d5.chunk.css",
+    "static/js/2.c35661bb.chunk.js",
+    "static/css/main.4ecaca88.chunk.css",
+    "static/js/main.7b120668.chunk.js"
+  ]
+}
